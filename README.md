@@ -1,6 +1,6 @@
 # ✨ Tadeáš Nevřela ✨
 
-<img src="images/banner.png" align="center" width="80%"/>
+<img src="images/banner.png" align="center" width="100%"/>
 
 ---
 
