@@ -1,11 +1,12 @@
 # ✨ Tadeáš Nevřela ✨
 
-![image](https://github.com/user-attachments/assets/f6ea49e2-211c-499a-a712-c77c2c2478ad)
+<img src="images/banner.png" align="center" width="80%"/>
 
 ---
 
 ## 🎓 Newbie C0der
-### ⚡ STATS
+### ⚡ STATS -
+
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=KlunnyS&show_icons=true&theme=radical)
 ##
 
