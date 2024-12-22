@@ -1,5 +1,10 @@
-![image](https://github.com/user-attachments/assets/d127daf7-23d2-4731-a056-28c5076cd287)
---
+![image](https://github.com/user-attachments/assets/f6ea49e2-211c-499a-a712-c77c2c2478ad)
+<div align="center">
+  
+===================================================================================================================
+
+</div>
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
 
 
 <!--
