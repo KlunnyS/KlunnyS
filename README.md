@@ -9,7 +9,7 @@
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=KlunnyS&show_icons=true&theme=radical)
 ##
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KlunnyS&hide=javascript,css,scss,html&theme=tokyonight)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KlunnyS,html&theme=tokyonight)
 
 
 
