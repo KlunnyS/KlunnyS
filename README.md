@@ -9,9 +9,10 @@
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=KlunnyS&show_icons=true&theme=radical)
 ##
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KlunnyS&theme=tokyonight)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KlunnyS&theme=dracula)]
 
-[![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=KlunnyS&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
+
+
 
 
 <!--
