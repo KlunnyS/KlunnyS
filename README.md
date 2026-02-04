@@ -7,7 +7,7 @@
 ## 🎓 Newbie C0der
 ### ⚡ STATS -
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=KlunnyS&show_icons=true&theme=radical)
+##![My GitHub stats](https://github-readme-stats.vercel.app/api?username=KlunnyS&show_icons=true&theme=radical)
 ##
 
 
