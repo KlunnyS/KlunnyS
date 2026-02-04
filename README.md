@@ -1,4 +1,4 @@
-# ✨ Tadeáš Nevřela ✨
+# ✨ KlunnyS ✨
 
 <img src="images/banner.png" align="center" width="100%"/>
 
