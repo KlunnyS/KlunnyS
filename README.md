@@ -31,12 +31,10 @@ $ whoami
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=KlunnyS&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
-![Profile views](https://komarev.com/ghpvc/?username=KlunnyS&style=flat-square&color=blue)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=KlunnyS&theme=darkhub&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KlunnyS&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![snake](https://raw.githubusercontent.com/KlunnyS/KlunnyS/output/github-contribution-grid-snake-dark.svg)
+# ![snake](https://raw.githubusercontent.com/KlunnyS/KlunnyS/output/github-contribution-grid-snake-dark.svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=KlunnyS&style=flat-square&color=blue)
