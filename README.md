@@ -3,13 +3,11 @@
 <img src="images/banner.png" align="center" width="100%"/>
 
 ---
-
 ## 🎓 Newbie C0der
-### ⚡ STATS -
 
-##![My GitHub stats](https://github-readme-stats.vercel.app/api?username=KlunnyS&show_icons=true&theme=radical)
-##
+### ⚡ STATS
 
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=KlunnyS&show_icons=true&theme=radical)
 
 
 
