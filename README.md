@@ -35,6 +35,4 @@ $ whoami
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KlunnyS&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-# ![snake](https://raw.githubusercontent.com/KlunnyS/KlunnyS/output/github-contribution-grid-snake-dark.svg)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=KlunnyS&style=flat-square&color=blue)
