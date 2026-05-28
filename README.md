@@ -1,6 +1,8 @@
 <img src="images/banner.png" align="center" width="100%"/>
 
 ---
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
+---
 
 # 👾 Hey, I'm KlunnyS
 
